@@ -1,0 +1,3 @@
+[2025-02-01 10:12:34] SERVER-01 INFO User 'alice' logged in
+[2025-02-01 10:18:10] SERVER-01 WARN High memory usage detected (usage=92%)
+[2025-02-01 10:15:45] SERVER-01 ERROR API request failed (status=500)
