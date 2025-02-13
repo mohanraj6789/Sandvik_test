@@ -1,0 +1,26 @@
+{
+    "log_counts": {
+        "INFO": 4,
+        "WARN": 1,
+        "ERROR": 3
+    },
+    "user_activity": {
+        "alice": {
+            "last_seen": "2025-02-03 10:22:55",
+            "actions": 2
+        },
+        "Chris": {
+            "last_seen": "2025-02-01 10:12:34",
+            "actions": 1
+        },
+        "bob": {
+            "last_seen": "2025-02-01 10:20:20",
+            "actions": 1
+        }
+    },
+    "api_errors": {
+        "total_requests": 8,
+        "failed_requests": 3,
+        "error_rate": "37.5%"
+    }
+}
