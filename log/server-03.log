@@ -1,3 +1,0 @@
-[2025-02-01 10:12:34] SERVER-03 INFO User 'Chris' logged in
-[2025-02-01 10:15:45] SERVER-03 ERROR API request failed (status=500)
-[2025-02-01 10:20:20] SERVER-03 INFO User 'bob' accessed dashboard
