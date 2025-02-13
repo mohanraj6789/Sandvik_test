@@ -1,0 +1,3 @@
+pip install python 3.13.2
+pip install fastapi uvicorn
+uvicorn logprocessor:app --reload
