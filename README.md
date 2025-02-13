@@ -4,7 +4,7 @@ This repository contains a Python application that processes log files and serve
 
 ## Requirements
 - Python 3.x
-- FAST
+- FAST API
 - aiofiles
 
 ## How to Use
